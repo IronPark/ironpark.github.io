@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on studyroom</title>
+    <link>https://ironpark.github.io/tags/life/</link>
+    <description>Recent content in Life on studyroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ironpark</copyright>
+    <lastBuildDate>Tue, 11 Sep 2018 01:24:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://ironpark.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>다시한번 마음을 다잡고</title>
+      <link>https://ironpark.github.io/2018/09/11/restart/</link>
+      <pubDate>Tue, 11 Sep 2018 01:24:24 +0900</pubDate>
+      
+      <guid>https://ironpark.github.io/2018/09/11/restart/</guid>
+      <description>다시금 글을 써보다. 최근에 심경에 변화가 좀 있었기에 다시 블로그에 글을 써나가려고 합니다. 사람 마음이라는게 뭔지 참 본인도 잘 모르겠고 그러네요 하여간에 자세한건 나중에 자세히 적어보도록 하겠습니다. 밀린글도 많이 있고 (draft) 앞으로 써야할 글도 많은데 일단 하루에 30 분 내지는 1 시간 정도 시간을 내어 꾸준히 글을 작성하는 (매일 발행하는건 아니고 draft 상태에서 계속 이어서 작성하는) 연습을 하려고 합니다 오늘부터가 그 시작이려나요.
+스케줄링의 중요성 사람이 라이프스타일 이라는게 한번 고정이 되면 그게 잘 바뀌지가 않아요, 항상성이라고 하나요?</description>
+    </item>
+    
+  </channel>
+</rss>

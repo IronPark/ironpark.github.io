@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이더리움 on studyroom</title>
+    <link>https://ironpark.github.io/tags/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80/</link>
+    <description>Recent content in 이더리움 on studyroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ironpark</copyright>
+    <lastBuildDate>Mon, 18 Dec 2017 06:08:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://ironpark.github.io/tags/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>원숭이가 당신보다 암호화폐 투자를 잘할 수도 있다.</title>
+      <link>https://ironpark.github.io/2017/12/18/crypto-monkey-investment/</link>
+      <pubDate>Mon, 18 Dec 2017 06:08:58 +0900</pubDate>
+      
+      <guid>https://ironpark.github.io/2017/12/18/crypto-monkey-investment/</guid>
+      <description>주의! : 이 글은 절대 투자를 권장하거나 권유하는 글이 아닙니다.
+원숭이 펀드매니저 주식투자에 관심이 있거나 있었던 사람들중 대다수는 원숭이가 종목을 선택해서 포트폴리오를 구성했을때 소위 말하는 전문가(펀드매니저) 가 운용하는 것과 대등한 수익을 낼 수 있다! 라는 말을 들어 보았을 것이다. 이는 150만부 이상이 팔린 버튼 멜키엘의 A Random Walk Down Wall Street 에서 주장하는 내용이다.
+ A blindfolded monkey throwing darts at a newspaper&amp;rsquo;s financial pages could select a portfolio that would do just as well as one carefully selected by experts, Burton Malkiel</description>
+    </item>
+    
+  </channel>
+</rss>

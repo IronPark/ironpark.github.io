@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on studyroom</title>
+    <link>https://ironpark.github.io/tags/docker/</link>
+    <description>Recent content in Docker on studyroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ironpark</copyright>
+    <lastBuildDate>Fri, 22 Dec 2017 22:50:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://ironpark.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>이미지 생성을 위한 Dockerfile Cheat Sheet</title>
+      <link>https://ironpark.github.io/2017/12/22/cheat-sheet-dockerfile/</link>
+      <pubDate>Fri, 22 Dec 2017 22:50:42 +0900</pubDate>
+      
+      <guid>https://ironpark.github.io/2017/12/22/cheat-sheet-dockerfile/</guid>
+      <description>Docker 이미지를 생성하기위해 기본적으로 알아야할 문법과 사용예를 기술하고 있습니다. 하지만 상세한 설명이 없거나 설명되지 않은 명령어 부족한 부분이 있을 수 있으며 이부분은 당연히 Docker 공식 문서 를 참고하시면 좋습니다.
+.dockerignore 파일 docker 이미지에 포함하지 말아야할 혹은 불필요한 데이터를 정의합니다. 즉 git을 사용할때 .gitignore 와 같은 역할을 수행합니다.
+   규칙 설명     */temp* 루트의 모든 하위 폴더에서 이름이 temp로 시작하는 파일 및 폴더를 제외합니다. ex) /somedir/temporary.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes는 뭔가요?</title>
+      <link>https://ironpark.github.io/2017/12/20/what-is-kubernetes/</link>
+      <pubDate>Wed, 20 Dec 2017 22:27:04 +0900</pubDate>
+      
+      <guid>https://ironpark.github.io/2017/12/20/what-is-kubernetes/</guid>
+      <description>부제 : 클라우드를 항해하는 히치하이커를 위한 안내서
+Kubernetes는 &amp;ldquo;조타수&amp;rdquo; 다 Kubernetes(쿠버네티스) 는 그리스어로 조타수를 뜻하는데. Docker가 각종 컨테이너를 얹은 선박이라면 Kubernetes는 전체 선박을 총괄지휘하는 일등 항해사 라고나 할까? 그래서 그런지 Kubernetes가 하는 일을 Container Orchestration이라고 표현하곤 한다.
+하는일이 뭐야?  Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications that was originally designed by Google and donated to the Cloud Native Computing Foundation. wikipedia</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on studyroom</title>
+    <link>https://ironpark.github.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on studyroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ironpark</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 22:27:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://ironpark.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes는 뭔가요?</title>
+      <link>https://ironpark.github.io/2017/12/20/what-is-kubernetes/</link>
+      <pubDate>Wed, 20 Dec 2017 22:27:04 +0900</pubDate>
+      
+      <guid>https://ironpark.github.io/2017/12/20/what-is-kubernetes/</guid>
+      <description>부제 : 클라우드를 항해하는 히치하이커를 위한 안내서
+Kubernetes는 &amp;ldquo;조타수&amp;rdquo; 다 Kubernetes(쿠버네티스) 는 그리스어로 조타수를 뜻하는데. Docker가 각종 컨테이너를 얹은 선박이라면 Kubernetes는 전체 선박을 총괄지휘하는 일등 항해사 라고나 할까? 그래서 그런지 Kubernetes가 하는 일을 Container Orchestration이라고 표현하곤 한다.
+하는일이 뭐야?  Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications that was originally designed by Google and donated to the Cloud Native Computing Foundation. wikipedia</description>
+    </item>
+    
+  </channel>
+</rss>
